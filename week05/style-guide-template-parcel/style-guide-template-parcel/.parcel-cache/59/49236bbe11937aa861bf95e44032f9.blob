@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="9797db890ab115df64f322f6ec8c2cdc" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="11a54e647e37814b135a6f0ff22b5f24">
+    <!-- Resource style -->
+    <script src="932d90d3eeeec95f906d78b52546ca5e"></script>
+    <!-- Modernizr -->
+    <title>Style Guide | CodyHouse</title>
+  </head>
+  <body>
+    <header>
+      <div class="cd-logo"><img src="183d5a41924f9591938233cbc386b96d" alt="Logo"></div>
+
+      <nav>
+        <ul class="cd-main-nav">
+          <li><a href="#Purpose">Purpose</a></li>
+          <li><a href="#colors">Colors</a></li>
+          <li><a href="#typography">Typography</a></li>
+        </ul>
+        <!-- cd-main-nav -->
+      </nav>    
+      <a href="#0" class="cd-nav-trigger">Menu<span></span></a>
+    </header>
+
+    <main>
+      <h1>Style Guide 1.0</h1>
+
+      <section id="purpose" class="cd-purpose">
+        <h2>Purpose/Theme</h2>
+
+        <div class="cd-box"><p>We plan to do a minimalist design focused mainly on color. We will use the color pallet listed below to create a earthy garden feel. If we can manage, we will use garden imagery. However, this is currently beyond our skill level so we have planned on something we can achieve and deliver. Our font case is chosen to give a whimsical feel to the page.</p></div>
+      </section>      
+
+      <section id="colors" class="cd-colors">
+        <h2>Colors</h2>
+
+        <ul>
+          <li class="cd-box"><div class="cd-color-swatch"></div></li>
+
+          <li class="cd-box"><div class="cd-color-swatch"></div></li>
+
+          <li class="cd-box"><div class="cd-color-swatch"></div></li>
+
+          <li class="cd-box"><div class="cd-color-swatch"></div></li>
+
+          <li class="cd-box"><div class="cd-color-swatch"></div></li>
+        </ul>
+      </section>
+
+      <section id="typography" class="cd-typography">
+        <h2>Typography</h2>
+
+        <div class="cd-box">
+          <h1>Headlines will be Indie Flower, and body content will be Raleway, <span></span></h1>
+          <p>
+            Aa - <span>and body content will be Raleway,</span> Apparently we had reached a great height in the atmosphere, for the sky was
+            a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level
+            of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense 
+            dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming
+            through a rift in the clouds.            
+          </p>
+        </div>
+      </section> 
+          
+
+      <section id="wireframes" class="cd-wireframes">
+        <h2>Wireframes</h2>
+        <div class="cd-box">
+          <figure>
+            <img src="ffd3b3b30a9a23270d9ba92626b62cc4" alt="Small screen wireframe Part01">
+            <figcaption>Small screen Part01</figcaption>
+            <img src="731c56d410f8859df436ec7b21ebc538" alt="Small screen wireframe Part02">
+            <figcaption>Small screen Part02</figcaption>
+          </figure>
+          <figure>
+            <img src="e95b7b1d0aaa99f317a7c00c616eb4bc" alt="Large screen wireframe">
+            <figcaption>Large screen</figcaption>
+          </figure>
+        </div>
+      </section>
+    </main>
+
+    <script src="109840a1dc8a9cfb9428801d6c53805a"></script>
+  </body>
+</html>
